@@ -1,1 +1,2 @@
 This is first project
+Electronフレームワークを使って製作している、ハードウェアの情報の概要とCPUやメモリ使用率などが取得できるアプリです。
