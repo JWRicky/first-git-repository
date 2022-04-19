@@ -1,0 +1,36 @@
+body {
+  background: #000;
+  color: #fff;
+  font-family: "Arial";
+}
+
+h1 {
+  font-family: "Arial";
+  font-size: 20px;
+  color: #b2ff33;
+}
+
+.CPU {
+  color: #b2ff33;
+}
+
+.CPU img {
+  width: 20px;
+  height: 20px;
+  left: 20px;
+}
+
+.CPU > img {
+  left: 20px;
+}
+
+.CPU {
+  list-style: none;
+  font-size: 18px;
+}
+
+.GPU {
+  color: #e3e548;
+  list-style: none;
+  font-size: 18px;
+}

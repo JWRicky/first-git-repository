@@ -1,0 +1,22 @@
+{
+  "name": "testnode",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricky",
+  "license": "MIT",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "electron": "^18.0.4"
+  },
+  "dependencies": {
+    "chart.js": "^3.7.1",
+    "express": "^4.17.3",
+    "node-powershell": "^5.0.1",
+    "os-utils": "0.0.14",
+    "powershell": "^2.3.2"
+  }
+}
